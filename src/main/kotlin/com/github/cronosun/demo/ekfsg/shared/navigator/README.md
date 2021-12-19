@@ -1,0 +1,1 @@
+There's a navigator implemented as interface (we don't use the Vaading Navigator directly). This makes testing easy.

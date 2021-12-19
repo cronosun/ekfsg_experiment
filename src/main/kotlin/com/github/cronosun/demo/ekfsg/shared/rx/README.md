@@ -1,0 +1,2 @@
+Verschiedene Utilities zum RxJava/RxKotlin mit Vaadin zu verbinden. Bin recht sicher, dass es dazu schon fertige
+Libraries gibt - hab das als Demo jedoch mal selber geschrieben (zum Zeigen, dass das recht simpel ist).
